@@ -1,5 +1,5 @@
 import { NativeModules } from 'react-native';
 
-const { ReactNativeOffertoroModule } = NativeModules;
+const { RNOfferToro } = NativeModules;
 
-export default ReactNativeOffertoroModule;
+export default RNOfferToro;
